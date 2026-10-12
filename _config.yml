@@ -1,0 +1,18 @@
+title: Katharine (Kate) Fisher
+email: kefisher [at] mit [.] edu
+description: "Academic profile."
+baseurl: "" 
+url: "https://kefisher98.github.io"
+
+subscribe: false
+
+avatar: assets/images/profile.jpg
+
+# Remote Theme configuration for Hamilton
+remote_theme: ngzhio/jekyll-theme-hamilton
+skin: midnight
+
+plugins:
+  - jekyll-remote-theme
+
+
