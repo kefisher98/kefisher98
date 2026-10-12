@@ -12,4 +12,4 @@ permalink: /teaching/
 
 <h2 style="color: var(--title-color, var(--primary-color, #14A3A8));">Teaching Assistant</h2>
 
-* **Probability and Statistics** (16.09). Department of Aeronautics & Astronautics. MIT. *Fall 2024*. 
+* **Probability and Statistics** (16.09). Department of Aeronautics & Astronautics. MIT. *Spring 2024*. 
